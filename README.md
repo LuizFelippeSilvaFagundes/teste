@@ -4,7 +4,7 @@ Sla, to testando minhas habilidades então fiz essa merda pra ver se funciona.
 
 ### Vamos ao que interessa:
 
-Nao estou me sentido bem ja faz uns dias, não sei oque é, acho que a depre voltou.
+Mentira kk n tem nada de interessante nessa porra
 
 ```markdown
 Nem sei pq to fazendo isso.
@@ -24,12 +24,12 @@ Nem sei pq to fazendo isso.
 So sei que nada sei 
 ```
 
-So preciso que vc saiba que eu preciso da sua ajuda.
+Cagado no tedio
 
-### prometo que ja ta acabando rs
+### Vida de vcs e uma merda tbm ou é so a minha ?
 
-Sei que tbm ta dificil pra vc, ta dificil pra todo mundo, espero que uma hora tudo isso acabe é eu e vc tenha paz.
+Sla, a minha ja me ferra a um tempo
 
 ### FIIIM
 
-Eu te amo muito tá? é não repara nos meus erros de ortografia obrigado.
+Me tirem de casa PELO AMOR DE DEUS
