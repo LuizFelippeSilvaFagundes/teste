@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Não tenho ideia para um titulo.
 
-You can use the [editor on GitHub](https://github.com/LuizFelippeSilvaFagundes/luizfelippefagundes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sla, to testando minhas habilidades então fiz essa merda pra ver se funciona.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Vamos ao que interessa:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nao estou me sentido bem ja faz uns dias, não sei oque é, acho que a depre voltou.
 
 ```markdown
 Syntax highlighted code block
