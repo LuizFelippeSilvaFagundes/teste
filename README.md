@@ -9,27 +9,27 @@ Nao estou me sentido bem ja faz uns dias, não sei oque é, acho que a depre vol
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Sla 1
+## Sla 2
+### Sla 3
 
-- Bulleted
-- List
+- Tedio está me consumindo
+- Nem sei oque estou fazendo
 
-1. Numbered
-2. List
+1. preciso mudar meus habitos
+2. preciso jogar minha vida no lixo e começar do zero ( e a melhor opção)
 
-**Bold** and _Italic_ and `Code` text
+**Talvez isso funcione** mas n sei `talvez n e muito obvio`. 
 
-[Link](url) and ![Image](src)
+So sei que nada sei 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+So preciso que vc saiba que eu preciso da sua ajuda.
 
-### Jekyll Themes
+### prometo que ja ta acabando rs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuizFelippeSilvaFagundes/luizfelippefagundes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sei que tbm ta dificil pra vc, ta dificil pra todo mundo, espero que uma hora tudo isso acabe é eu e vc tenha paz.
 
-### Support or Contact
+### FIIIM
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Eu te amo muito tá? é não repara nos meus erros de ortografia obrigado.
